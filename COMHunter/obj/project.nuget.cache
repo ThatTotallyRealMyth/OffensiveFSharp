@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSiRbrSyfAs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdul\\Documents\\ChatGPT\\OffensiveF#\\COMHunter\\COMHunter.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

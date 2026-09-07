@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6uI3mLD48c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdul\\Documents\\ChatGPT\\OffensiveF#\\PhantomService\\PhantomService.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
