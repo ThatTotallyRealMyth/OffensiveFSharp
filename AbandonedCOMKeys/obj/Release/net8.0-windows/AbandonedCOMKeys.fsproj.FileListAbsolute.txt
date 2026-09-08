@@ -1,7 +1,0 @@
-C:\Users\abdul\Documents\ChatGPT\OffensiveF#\AbandonedCOMKeys\obj\Release\net8.0-windows\AbandonedCOMKeys.fsproj.AssemblyReference.cache
-C:\Users\abdul\Documents\ChatGPT\OffensiveF#\AbandonedCOMKeys\obj\Release\net8.0-windows\AbandonedCOMKeys.AssemblyInfoInputs.cache
-C:\Users\abdul\Documents\ChatGPT\OffensiveF#\AbandonedCOMKeys\obj\Release\net8.0-windows\AbandonedCOMKeys.AssemblyInfo.fs
-C:\Users\abdul\Documents\ChatGPT\OffensiveF#\AbandonedCOMKeys\obj\Release\net8.0-windows\AbandonedCOMKeys.fsproj.CoreCompileInputs.cache
-C:\Users\abdul\Documents\ChatGPT\OffensiveF#\AbandonedCOMKeys\obj\Release\net8.0-windows\AbandonedCOMKeys.dll
-C:\Users\abdul\Documents\ChatGPT\OffensiveF#\AbandonedCOMKeys\obj\Release\net8.0-windows\refint\AbandonedCOMKeys.dll
-C:\Users\abdul\Documents\ChatGPT\OffensiveF#\AbandonedCOMKeys\obj\Release\net8.0-windows\AbandonedCOMKeys.pdb
