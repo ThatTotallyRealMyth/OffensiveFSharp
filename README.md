@@ -11,3 +11,12 @@ The dotnet framework is incredibly powerful, and as a result the C# language has
 This repository is mainly an excuse for me to learn F# as a more accessible language to explore dotnet functionality as well as a place to share how some known C# tooling looks like when translated into F# less it may encourage people to try it out!
 
 This repository is meant for educational purposes only, most things to be featured here are PoCs on what F# can do easy and quick but do explore it on your own and share with others what you build!
+
+### ETWEventSubscription
+
+`ETWEventSubscription` observes successful user logons or process starts through Event Tracing for Windows. Run it from an elevated console and press `Ctrl+C` to stop the trace session.
+
+```powershell
+ETWEventSubscription.exe -UserLogon
+ETWEventSubscription.exe -ProcStart powersh
+```

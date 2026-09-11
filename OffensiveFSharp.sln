@@ -15,6 +15,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PhantomService", "PhantomSe
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UnquotedPath", "UnquotedPath\UnquotedPath.fsproj", "{76D8BF7A-2562-4508-A6A3-F4DFF60C23A1}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ETWEventSubscription", "ETWEventSubscription\ETWEventSubscription.fsproj", "{20C9B94D-3507-470A-A1C3-55D36F98BD7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,5 +47,9 @@ Global
 		{76D8BF7A-2562-4508-A6A3-F4DFF60C23A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D8BF7A-2562-4508-A6A3-F4DFF60C23A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76D8BF7A-2562-4508-A6A3-F4DFF60C23A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C9B94D-3507-470A-A1C3-55D36F98BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C9B94D-3507-470A-A1C3-55D36F98BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C9B94D-3507-470A-A1C3-55D36F98BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C9B94D-3507-470A-A1C3-55D36F98BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
