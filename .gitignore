@@ -1,0 +1,26 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## Visual F# cache
+.fsharp/
